@@ -1,0 +1,2 @@
+# API KEY for data.gov
+API_KEY = 'FDr58YwAaW4DwG8tylV0JRT8xyfsAYE73HwI7Ypt'
